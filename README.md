@@ -29,8 +29,8 @@ Follow these instructions to set up and run the project locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/potr-pots.git
-cd potr-pots
+git clone https://github.com/Reaffith/Potr_pots_landing.git
+cd Potr_pots_landing
 ```
 
 ### Install Dependencies
